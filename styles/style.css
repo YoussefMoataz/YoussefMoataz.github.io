@@ -4,7 +4,7 @@ html {
 
 body {
     height: 90%;
-    background-color: rgba(169, 189, 207, 0.75);
+    background-color: #1db5ad60;
     display: grid;
     align-items: center;
     justify-content: center;
